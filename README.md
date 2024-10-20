@@ -46,7 +46,7 @@ realtime-weather-app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Omkar1279/realtime-weather-app.git
+git clone https://github.com/msoundappan007/realtime-weather-system.git
 cd realtime-weather-app
 ```
 
